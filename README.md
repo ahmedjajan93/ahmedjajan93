@@ -9,7 +9,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,javascript,html,css,docker,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,docker,git,github,vscode,langchain,Gen AI />
 </p>
 
 ---
@@ -17,8 +17,8 @@
 ### 🔥 Github Stats
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 📈 Wakatime (Coding Stats)
 
 <!-- Optional: create Wakatime account -->
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmedjajan93&theme=tokyonight)
 
 ---
 
@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjajan93&theme=tokyonight" />
 </p>
