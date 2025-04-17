@@ -26,7 +26,7 @@
 ### 🚀 Projects I'm Building
 
 - 🧠 [Multiverse Agent Simulator](https://github.com/YOUR_USERNAME/multiverse-agent-simulator) — Parallel decision-making with LangChain agents  
-- 🌐 [Web QA + Info Extractor](https://github.com/YOUR_USERNAME/web-info-ai) — Extract contact info + answer queries from any site  
+- 🌐 [Web QA ](https://github.com/ahmedjajan93/AQ_website) — Extract contact info + answer queries from any site  
 - 🧵 [AI Fashion Moodboard](https://github.com/YOUR_USERNAME/ai-moodboard) — From dream descriptions to curated design boards  
 
 ---
