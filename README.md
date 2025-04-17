@@ -31,12 +31,6 @@
 
 ---
 
-### 📈 Wakatime (Coding Stats)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ahmedjajan93&theme=tokyonight)
-
----
-
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadjajan)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://share.streamlit.io/user/ahmedjajan93)
