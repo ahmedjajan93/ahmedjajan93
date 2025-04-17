@@ -20,6 +20,10 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&layout=compact&theme=tokyonight" />
 </p>
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjajan93&theme=tokyonight" />
+</p>
 
 ---
 
@@ -49,8 +53,6 @@
 - 📚 Share more open-source tools and guides  
 - 🌍 Collaborate with AI builders across the globe  
 
----
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjajan93&theme=tokyonight" />
-</p>
+
+
