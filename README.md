@@ -33,8 +33,7 @@
 
 ### 📈 Wakatime (Coding Stats)
 
-<!-- Optional: create Wakatime account -->
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmedjajan93&theme=tokyonight)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ahmedjajan93&theme=tokyonight)
 
 ---
 
