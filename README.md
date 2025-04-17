@@ -25,7 +25,7 @@
 
 ### 🚀 Projects I'm Building
 
-- 🧠 [Multiverse Agent Simulator](https://github.com/YOUR_USERNAME/multiverse-agent-simulator) — Parallel decision-making with LangChain agents  
+- 🧠 [Multiverse Agent Simulator](https://multiverse-agent-simulator-m5bc9ygwnocqsxacva8jwv.streamlit.app/) — Parallel decision-making with LangChain agents  
 - 🌐 [Web QA ](https://aqwebsite-kuckpjpgrub8hnc8qek6qq.streamlit.app/) — answer queries from any site  
 - 🧵 [AI Fashion Moodboard](https://github.com/YOUR_USERNAME/ai-moodboard) — From dream descriptions to curated design boards  
 
