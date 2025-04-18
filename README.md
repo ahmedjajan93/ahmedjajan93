@@ -27,7 +27,7 @@
 
 - 🧠 [Multiverse Agent Simulator](https://multiverse-agent-simulator-m5bc9ygwnocqsxacva8jwv.streamlit.app/) — Parallel decision-making with LangChain agents  
 - 🌐 [Web QA ](https://aqwebsite-kuckpjpgrub8hnc8qek6qq.streamlit.app/) — answer queries from any site  
-- 🧵 [AI Business Intelligence](https://github.com/ahmedjajan93/AI-Business-Intelligence) — From dream descriptions to curated design boards  
+- 🧵 [AI Business Intelligence](https://github.com/ahmedjajan93/AI-Business-Intelligence) — scrapes company websites, retrieves insights using LLMs
 
 ---
 
