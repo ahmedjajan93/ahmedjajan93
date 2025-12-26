@@ -74,8 +74,19 @@ me.say_hi()
 
 <div align="center">
 
-### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com/?user=ahmedjajan93&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedjajan93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
 
 ### 📈 Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedjajan93&theme=tokyonight" alt="Profile Summary" />
