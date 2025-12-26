@@ -47,8 +47,6 @@ me.say_hi()
 
 ## 🛠️ Tech 
 
-## 🛠️ Tech Arsenal
-
 <details>
 <summary><b>🤖 AI & Machine Learning</b></summary>
 
