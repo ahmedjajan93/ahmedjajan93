@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 About Me
 ```python
@@ -98,17 +98,6 @@ me.say_hi()
 | 📝 Technical Writing & Blogging | 🔵 Planning |
 
 </div>
-
----
-
-## 💭 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 Building Production-Ready LLM Applications with LangChain
-- 🔥 RAG vs Fine-tuning: When to Use What
-- 🎯 Multi-Agent Systems: The Future of AI
-- 💡 Prompt Engineering Best Practices for GPT-4
-<!-- BLOG-POST-LIST:END -->
 
 ---
 <div align="center">
