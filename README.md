@@ -71,18 +71,6 @@ me.say_hi()
 
 ---
 
-### 🎯 AI Portfolio Hub
-**Showcasing AI innovation**
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/)
-
-- Interactive project showcase
-- Live AI demonstrations
-- Technical deep-dives
-
-**Tech:** Streamlit • Python • AI Models
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -161,16 +149,6 @@ graph LR
 ### 👀 Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/ahmedjajan93/count.svg)
-
----
-
-### ☕ Support My Work
-
-If you find my projects useful, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ahmadjajan)
-
-</div>
 
 ---
 
