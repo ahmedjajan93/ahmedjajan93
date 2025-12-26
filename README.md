@@ -1,46 +1,67 @@
-<h1 align="center">Hey there, I'm 👋 Ahmad Jajan </h1>
-<p align="center">🚀 Building with Generative AI | 🧠 LangChain Enthusiast | 📚 Lifelong Learner</p>
+# 👋 Hey there, I'm Ahmad Jajan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+AI+playground!." />
-</p>
+🚀 AI Engineer specializing in Generative AI & LLM Applications | 🧠 LangChain Expert | 📚 Lifelong Learner
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,docker,git,github,vscode,langchain,Gen AI />
-</p>
+## 🧰 Tech Stack
+
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**AI & Machine Learning**
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-### 🔥 Github Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&layout=compact&theme=tokyonight" />
-</p>
+### 🎯 [AI Portfolio & Project Showcase](https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/)
+A comprehensive collection of AI projects demonstrating expertise in LLMs, computer vision, and agent-based systems.
+
+### 🤖 [Multiverse Agent Simulator](https://github.com/ahmedjajan93/portfolio)
+Real-time decision-making agents powered by LangChain and advanced LLM orchestration.
+
+### 💬 [AI Meeting Assistant](https://github.com/ahmedjajan93/AI-Meeting-Assistant)
+Intelligent meeting transcription and summarization tool using state-of-the-art NLP.
 
 ---
 
-### 🚀 Projects I'm Building
+## 📊 GitHub Stats
 
-- 🧠 [portfolio]([https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/]) 
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&layout=compact&theme=radical)
+
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadjajan)
-
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmedjajan93)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/)
 
 ---
 
-### 🎯 Goals for 2025
+## 🎯 Goals for 2025
 
-- 🚀 Finish my master’s in Generative AI  
-- 🛠 Launch my AI product idea  
-- 📚 Share more open-source tools and guides  
-- 🌍 Collaborate with AI builders across the globe  
+- 🎓 Complete Master's degree in Generative AI
+- 🚀 Launch production-ready AI SaaS product
+- 📚 Contribute to open-source AI/ML projects
+- 🌍 Collaborate with AI engineers and researchers globally
+- 📝 Write technical blogs on LLM applications and best practices
 
+---
 
-
-
+💡 *Always learning, always building. Let's create the future of AI together!*
