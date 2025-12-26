@@ -8,9 +8,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadjajan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/))
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedjajan93@gmail.com)
+<a href="https://linkedin.com/in/ahmadjajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:ahmedjajan93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -82,7 +82,7 @@ me.say_hi()
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedjajan93&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjajan93&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -92,7 +92,7 @@ me.say_hi()
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedjajan93&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjajan93&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" /></a>
 
 </div>
 
