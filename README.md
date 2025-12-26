@@ -148,7 +148,7 @@ graph LR
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/ahmedjajan93/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedjajan93&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 ---
 
