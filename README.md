@@ -25,15 +25,12 @@
 
 ### 🚀 Projects I'm Building
 
-- 🧠 [Multiverse Agent Simulator](https://multiverse-agent-simulator-aptiomxdcfvqtsmwtlg9kg.streamlit.app/) — Parallel decision-making with LangChain agents  
-- 🌐 [Web QA ](https://aqwebsite-kuckpjpgrub8hnc8qek6qq.streamlit.app/) — answer queries from any site  
-- 🧵 [AI Business Intelligence](https://github.com/ahmedjajan93/AI-Business-Intelligence) — scrapes company websites, retrieves insights using LLMs
-
+- 🧠 [portfolio]([https://multiverse-agent-simulator-aptiomxdcfvqtsmwtlg9kg.streamlit.app/](https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/)) 
 ---
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadjajan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://share.streamlit.io/user/ahmedjajan93)
+
 
 ---
 
