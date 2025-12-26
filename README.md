@@ -25,7 +25,7 @@
 
 ### 🚀 Projects I'm Building
 
-- 🧠 [portfolio]([https://multiverse-agent-simulator-aptiomxdcfvqtsmwtlg9kg.streamlit.app/](https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/)) 
+- 🧠 [portfolio]([https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/]) 
 ---
 
 ### 🌐 Connect With Me
