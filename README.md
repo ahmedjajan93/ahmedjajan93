@@ -70,25 +70,18 @@ me.say_hi()
 </div>
 
 ---
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedjajan93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&theme=tokyonight)
 
 </div>
 
 ### 📈 Profile Summary
+<div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedjajan93&theme=tokyonight" alt="Profile Summary" />
 
 </div>
