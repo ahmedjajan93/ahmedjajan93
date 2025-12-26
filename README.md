@@ -70,21 +70,13 @@ me.say_hi()
 </div>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&theme=tokyonight)
-
-</div>
-
 ### 📈 Profile Summary
-<div>
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedjajan93&theme=tokyonight" alt="Profile Summary" />
 
 </div>
+
+
 ---
 
 ## 📈 Contribution Graph
