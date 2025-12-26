@@ -9,8 +9,8 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadjajan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/))
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedjajan93@gmail.com)
 
 </div>
 
@@ -25,8 +25,8 @@ class AhmadJajan:
         self.name = "Ahmad Jajan"
         self.role = "AI Engineer"
         self.location = "🌍 Global"
-        self.education = "🎓 Master's in Generative AI"
-        self.interests = ["LLMs", "Agent Systems", "RAG", "Computer Vision"]
+        self.education = "🎓 Master's in AI"
+        self.interests = ["LLMs", "Agent Systems", "RAG", "NLP"]
     
     def say_hi(self):
         print("Building intelligent systems, one model at a time!")
@@ -37,7 +37,7 @@ me.say_hi()
 
 - 🔭 Currently building **AI-powered applications** with LangChain & LLMs
 - 🌱 Deep diving into **Agent Orchestration** and **Multi-Agent Systems**
-- 💡 Passionate about **Generative AI**, **Prompt Engineering**, and **RAG**
+- 💡 Passionate about **Generative AI**, **Agent Systems**, and **RAG**
 - 🎯 2025 Goal: Launch my own **AI SaaS product**
 - ⚡ Fun fact: I debug with coffee and solve problems with AI ☕🤖
 
@@ -60,8 +60,6 @@ me.say_hi()
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Development & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,37 +79,6 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🤖 Multiverse Agent Simulator
-**AI agents making real-time decisions**
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedjajan93/portfolio)
-
-- Multi-agent orchestration with LangChain
-- Strategic decision-making AI
-- Real-time scenario simulation
-
-**Tech:** Python • LangChain • OpenAI • Streamlit
-
-</td>
-<td width="50%">
-
-### 💬 AI Meeting Assistant
-**Smart transcription & summarization**
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedjajan93/AI-Meeting-Assistant)
-
-- Real-time audio transcription
-- AI-powered meeting summaries
-- Action item extraction
-
-**Tech:** Python • Whisper • GPT-4 • FastAPI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### 🎯 AI Portfolio Hub
 **Showcasing AI innovation**
 
@@ -125,17 +92,6 @@ me.say_hi()
 
 </td>
 <td width="50%">
-
-### 🔮 Computer Vision Suite
-**Real-time object detection**
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedjajan93)
-
-- YOLO-based detection
-- Real-time video analysis
-- Custom model training
-
-**Tech:** Python • YOLO • OpenCV • PyTorch
 
 </td>
 </tr>
