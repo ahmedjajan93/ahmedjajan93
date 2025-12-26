@@ -47,27 +47,9 @@ me.say_hi()
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-
-### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-
-### **Frameworks & Tools**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Development & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+**AI & ML:** Python · LangChain · OpenAI · Anthropic · Hugging Face  
+**Frameworks:** FastAPI · Streamlit  
+**DevOps:** Docker · Git · GitHub · VS Code · Jupyter
 
 ---
 ### 📈 Profile Summary
@@ -98,21 +80,6 @@ me.say_hi()
 | 🚀 Launch AI SaaS Product | 🟡 In Development |
 | 📚 Contribute to Open Source | 🟡 Active |
 | 📝 Technical Writing & Blogging | 🔵 Planning |
-
-</div>
-
----
-
-### 📈 Current Focus Areas
-
-<div align="center">
-
-| Focus | Progress | Status |
-|-------|----------|--------|
-| 🎓 Master's Degree | ████████░░ 80% | In Progress |
-| 🚀 AI Product Development | ██████░░░░ 60% | Active |
-| 📚 Open Source | ████░░░░░░ 40% | Building |
-| 📝 Technical Writing | ███░░░░░░░ 30% | Planning |
 
 </div>
 
