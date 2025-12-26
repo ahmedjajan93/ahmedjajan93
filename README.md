@@ -47,11 +47,26 @@ me.say_hi()
 
 ## 🛠️ Tech 
 
-| AI & ML | Frameworks | DevOps |
-|-------|-----------|--------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+## 🛠️ Tech Arsenal
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+
+- Python
+- LangChain
+- OpenAI / Anthropic
+- Hugging Face
+
+</details>
+
+<details>
+<summary><b>🧱 Frameworks & Tools</b></summary>
+
+- FastAPI
+- Streamlit
+- Docker
+
+</details>
 
 
 ---
