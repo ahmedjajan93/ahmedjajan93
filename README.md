@@ -70,19 +70,22 @@ me.say_hi()
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<a href="https://github.com/ahmedjajan93">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjajan93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+</a>
 
 </div>
 
 <div align="center">
   
-<a href="https://git.io/streak-stats" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjajan93&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /></a>
+<a href="https://github.com/ahmedjajan93">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjajan93&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=00D9FF&fire=FF4B4B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -92,7 +95,19 @@ me.say_hi()
 
 <div align="center">
   
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjajan93&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" /></a>
+<a href="https://github.com/ahmedjajan93">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedjajan93&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedjajan93&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF4B4B" alt="Contribution Graph" />
 
 </div>
 
