@@ -71,14 +71,6 @@ me.say_hi()
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
 ### 🎯 AI Portfolio Hub
 **Showcasing AI innovation**
 
@@ -89,16 +81,6 @@ me.say_hi()
 - Technical deep-dives
 
 **Tech:** Streamlit • Python • AI Models
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -168,17 +150,6 @@ graph LR
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-## 🎵 Coding Soundtrack
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Random Dev Quote
