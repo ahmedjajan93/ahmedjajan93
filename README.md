@@ -70,26 +70,17 @@ me.say_hi()
 </div>
 
 ---
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-ahmedjajan93.vercel.app/api?username=ahmedjajan93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+### 🔥 Streak Stats
+<img src="https://streak-stats.demolab.com/?user=ahmedjajan93&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+### 📈 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedjajan93&theme=tokyonight" alt="Profile Summary" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<a href="https://github.com/ahmedjajan93">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedjajan93&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
-</a>
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
