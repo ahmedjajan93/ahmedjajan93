@@ -38,7 +38,7 @@ me.say_hi()
 - 🔭 Currently building **AI-powered applications** with LangChain & LLMs
 - 🌱 Deep diving into **Agent Orchestration** and **Multi-Agent Systems**
 - 💡 Passionate about **Generative AI**, **Agent Systems**, and **RAG**
-- 🎯 2025 Goal: Launch my own **AI SaaS product**
+- 🎯 2026 Goal: Launch my own **AI SaaS product**
 - ⚡ Fun fact: I debug with coffee and solve problems with AI ☕🤖
 
 <br clear="right"/>
@@ -86,7 +86,7 @@ me.say_hi()
 </div>
 
 ---
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 <div align="center">
 
