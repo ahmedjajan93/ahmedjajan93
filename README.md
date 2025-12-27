@@ -10,11 +10,7 @@
   
 <a href="https://linkedin.com/in/ahmadjajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://ahmed-portfolio.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio" /></a>
-## 📬 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-yourname@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
-
-
+📧 **Email:** [Contact Me](https://mail.google.com/mail/?view=cm&fs=1&to=yourname@gmail.com&su=GitHub%20Project&body=Hello%20Ahmad,)
 </div>
 
 ---
