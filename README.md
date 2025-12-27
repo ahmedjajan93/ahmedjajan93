@@ -9,8 +9,8 @@
 <div align="center">
   
 <a href="https://linkedin.com/in/ahmadjajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://portfolio-mcsn2c4dfbcfsmhgj7yrsq.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:ahmedjajan93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ahmed-portfolio.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio" /></a>
+<a href="ahmedjajan93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
