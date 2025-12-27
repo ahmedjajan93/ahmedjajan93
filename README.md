@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-
+</div>
 ---
 
 <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
